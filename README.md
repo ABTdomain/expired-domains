@@ -53,6 +53,11 @@ Start with **Keyword** (a term across all gTLDs), **Browse by TLD** (one TLD, no
 
 Lets AI find expired domains with [ABTdomain/domainkits-mcp](https://github.com/ABTdomain/domainkits-mcp): Claude, ChatGPT, Gemini, Cursor and other MCP clients search the same expiration pipeline as web search, by keyword or gTLD, then dig deeper in the same conversation.
 
+<p align="center">
+<a href="https://www.youtube.com/watch?v=aOL1TiX0SuU"><img src="https://img.youtube.com/vi/aOL1TiX0SuU/maxresdefault.jpg" alt="Video: Find a great .com before it drops with the DomainKits MCP server" width="640"></a><br>
+<a href="https://www.youtube.com/watch?v=aOL1TiX0SuU">▶ Watch on YouTube: Find a Great .com Before It Drops</a>
+</p>
+
 - **Judge the value**: registration history, backlink profile, and search volume and CPC for the keyword
 - **Map the name**: the same name across TLDs, and secondary market prices for similar names
 - **Read the status**: what each EPP status code means and what the holder can still do

@@ -7,9 +7,11 @@
 [![AI native: MCP, CLI and Skills](https://img.shields.io/badge/AI%20native-MCP%20%C2%B7%20CLI%20%C2%B7%20Skills-0284C7?labelColor=1F2937)](#mcp-server)
 [![No registrant PII](https://img.shields.io/badge/PII-none-0284C7?labelColor=1F2937)](#what-makes-domainkits-different)
 
-DomainKits tracks more than **10 million expired domains** across 1,100+ gTLDs: names in the registrar grace period, in redemption, or in the final days of pending delete. All of them are still registered, and the ones that are not renewed or restored are released in the coming weeks.
+When a domain expires, a project, an investment or a memory enters the last stage of its life cycle. Every day we observe tens of thousands of expired domains: some just expired, some in redemption, some waiting to be deleted.
 
-**DomainKits.com** makes finding them before they drop easier.
+DomainKits tracks more than **10 million expired domains** across 1,100+ gTLDs. All of them are still registered, and the ones that are not renewed or restored are released in the coming weeks.
+
+**DomainKits.com** helps you spot expired domains early and track them until they are deleted.
 
 ## What makes DomainKits different
 

@@ -81,6 +81,10 @@ Integrates expired domain data into your workflows: the same search with the ful
 - **n8n node**: [ABTdomain/domainkits-n8n](https://github.com/ABTdomain/domainkits-n8n), with a ready-made template that [finds high-value expired domains and emails a CSV report](https://n8n.io/workflows/18101-find-high-value-expired-domains-with-domainkits-and-moz-and-email-a-csv-report/)
 - **Node-RED nodes**: [ABTdomain/node-red-contrib-domainkits](https://github.com/ABTdomain/node-red-contrib-domainkits)
 
+## Related
+
+- [ABTdomain/newly-registered-domains](https://github.com/ABTdomain/newly-registered-domains): newly registered domains updated every 15 minutes across 1,400+ TLDs
+
 ## Contact us
 
 - Email: [info@domainkits.com](mailto:info@domainkits.com)

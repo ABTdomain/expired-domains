@@ -69,6 +69,11 @@ Lets AI find expired domains with [ABTdomain/domainkits-mcp](https://github.com/
 
 Uses the DomainKits API from the command line: `dk` is one binary with no dependencies, takes `key=value` parameters, prints the API response as returned, and returns exit codes that AI agents and scripts can branch on (`0` success, `1` API error, `2` usage or network error).
 
+<p align="center">
+<a href="https://www.youtube.com/watch?v=Yi4EmuZB6ss"><img src="https://img.youtube.com/vi/Yi4EmuZB6ss/maxresdefault.jpg" alt="Video: How to find expired domains from your terminal with the DomainKits CLI" width="640"></a><br>
+<a href="https://www.youtube.com/watch?v=Yi4EmuZB6ss">▶ Watch on YouTube: How to Find Expired Domains From Your Terminal</a>
+</p>
+
 ```bash
 export DOMAINKITS_API_KEY=dk_...
 dk search expired query=shop status=pending_delete age_min=10   # pending delete names with 10+ years of history
